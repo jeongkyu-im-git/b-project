@@ -6,3 +6,5 @@
 
 Excuteable.war 다운로드 경로 / 용량 문제로 인해 Google Drive에 업로드 했습니다.
 https://drive.google.com/file/d/1VsntfDmHwSfZwvBJm12rLFxUkZQhz4Y6/view?usp=sharing
+
+파일명 : Executable-book-project.war
